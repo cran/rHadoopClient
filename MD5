@@ -1,0 +1,9 @@
+5e3f22d0de9d5e99eca62d88e6396a79 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+124a5973f4837bf15ed45e3a9dcc4523 *R/read.hdfs.R
+66b6c0d7c3ec3197e224d16c5aeccafb *R/read.hive.R
+7e70808be57741a804b4145b6fe4a0a7 *R/write.hdfs.R
+e5bc8e94b6f17d9c7646021568eb8b15 *man/rHadoopClient-package.Rd
+7c448f9448ca6cadd47215855237f630 *man/read.hdfs.Rd
+c3e22927ca9e868bfd0102f197ce83eb *man/read.hive.Rd
+a4d6c47ec9b15ba269ae66bec54152dc *man/write.hdfs.Rd
